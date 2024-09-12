@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 
 ## Projects
-- [Jobby App](https://github.com/Josephmathew072/Jobby-App):  A job portal App developed with user authentication. Username: **rahul**,  Password: **rahul@2021**
 - [NxT Trendz](https://nxt1trenz.ccbp.tech/login):  An E-Commerce website created using ReactJS with user authentication. Username: **rahul**,  Password: **rahul@2021**
+- [Jobby App](https://github.com/Josephmathew072/Jobby-App):  A job portal App developed with user authentication. Username: **rahul**,  Password: **rahul@2021**
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-mathew-aikara/)
